@@ -1,0 +1,51 @@
+/*Iniciando estilos*/
+.seccion{
+	width: 33.3%;
+	height: 600px;
+}
+.section-item{
+	width : 95%;
+	margin : 10px; 
+	background-color: rgb(255, 255, 255);
+	border : 2px outset white;
+}
+.entrada{
+	height: 200px;
+	
+}
+.bano{
+	height: 350px;
+}
+.salaRecam{
+	height: 275px;
+}
+.comedor{
+	height: 250px;
+}
+.cocina{
+	height: 300px;
+}
+.tit1{
+		text-align: center;
+		font-size: 3vw;
+		color: darkred;
+}
+.numVis{
+	text-align: right;
+	font-size: 4.5vw;
+	color: blue;
+	position: absolute;
+	top : 25px;
+	left : 100px;
+}
+.temp1{
+	text-align: right;
+	font-size: 6.5vw;
+	color: lightblue;
+}
+
+/* Contenedor para poder poner imagenes y ponerles texto*/
+.contImg{
+	position : relative;
+	text-align: center;
+}

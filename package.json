@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap4": "^0.0.1-security",
+    "jQuery": "^1.7.4",
+    "popper": "^1.0.1",
+    "vendor": "^1.7.0"
+  }
+}
