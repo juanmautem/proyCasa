@@ -22,6 +22,7 @@ class Welcome extends CI_Controller {
 	{
 		$entrada['cantidad'] = 20;
 		$entrada['aspersor'] = 'Off';
+		$entrada['nombre'] = 'Juan';
 		$this->load->view('template/header');
 		$this->load->view('dashboard/main');
 		$this->load->view('dashboard/seccion1',$entrada);
